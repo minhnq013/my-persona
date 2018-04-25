@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "/Users/mnguyen/Dev/playgrounds/my-persona/my-apis"
+    },
+    {
+      "path": "/Users/mnguyen/Dev/playgrounds/my-persona/my-app"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "prettier.eslintIntegration": true
+  }
+}
